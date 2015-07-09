@@ -15,7 +15,7 @@
         android:text="Door"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
-    <com.example.dinh.kgarage.MyGarage.DoorView
+    <com.kooltech.droid.kgarage.MyGarage.DoorView
         android:layout_weight="1"
         android:id="@+id/fragment_door_mydoor"
         android:layout_width="wrap_content"
